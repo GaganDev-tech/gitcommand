@@ -1,3 +1,0 @@
-#!/bin/bash
-
-touch newfile.txt 1..10
